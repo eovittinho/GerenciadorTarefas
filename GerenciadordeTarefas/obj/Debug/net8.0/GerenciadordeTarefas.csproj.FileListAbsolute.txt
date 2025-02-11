@@ -1,0 +1,15 @@
+C:\Users\Alunos\OneDrive\Documentos\vittinho\GerenciadorTarefas\GerenciadordeTarefas\bin\Debug\net8.0\GerenciadordeTarefas.exe
+C:\Users\Alunos\OneDrive\Documentos\vittinho\GerenciadorTarefas\GerenciadordeTarefas\bin\Debug\net8.0\GerenciadordeTarefas.deps.json
+C:\Users\Alunos\OneDrive\Documentos\vittinho\GerenciadorTarefas\GerenciadordeTarefas\bin\Debug\net8.0\GerenciadordeTarefas.runtimeconfig.json
+C:\Users\Alunos\OneDrive\Documentos\vittinho\GerenciadorTarefas\GerenciadordeTarefas\bin\Debug\net8.0\GerenciadordeTarefas.dll
+C:\Users\Alunos\OneDrive\Documentos\vittinho\GerenciadorTarefas\GerenciadordeTarefas\bin\Debug\net8.0\GerenciadordeTarefas.pdb
+C:\Users\Alunos\OneDrive\Documentos\vittinho\GerenciadorTarefas\GerenciadordeTarefas\obj\Debug\net8.0\GerenciadordeTarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\OneDrive\Documentos\vittinho\GerenciadorTarefas\GerenciadordeTarefas\obj\Debug\net8.0\GerenciadordeTarefas.AssemblyInfoInputs.cache
+C:\Users\Alunos\OneDrive\Documentos\vittinho\GerenciadorTarefas\GerenciadordeTarefas\obj\Debug\net8.0\GerenciadordeTarefas.AssemblyInfo.cs
+C:\Users\Alunos\OneDrive\Documentos\vittinho\GerenciadorTarefas\GerenciadordeTarefas\obj\Debug\net8.0\GerenciadordeTarefas.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\OneDrive\Documentos\vittinho\GerenciadorTarefas\GerenciadordeTarefas\obj\Debug\net8.0\GerenciadordeTarefas.sourcelink.json
+C:\Users\Alunos\OneDrive\Documentos\vittinho\GerenciadorTarefas\GerenciadordeTarefas\obj\Debug\net8.0\GerenciadordeTarefas.dll
+C:\Users\Alunos\OneDrive\Documentos\vittinho\GerenciadorTarefas\GerenciadordeTarefas\obj\Debug\net8.0\refint\GerenciadordeTarefas.dll
+C:\Users\Alunos\OneDrive\Documentos\vittinho\GerenciadorTarefas\GerenciadordeTarefas\obj\Debug\net8.0\GerenciadordeTarefas.pdb
+C:\Users\Alunos\OneDrive\Documentos\vittinho\GerenciadorTarefas\GerenciadordeTarefas\obj\Debug\net8.0\GerenciadordeTarefas.genruntimeconfig.cache
+C:\Users\Alunos\OneDrive\Documentos\vittinho\GerenciadorTarefas\GerenciadordeTarefas\obj\Debug\net8.0\ref\GerenciadordeTarefas.dll

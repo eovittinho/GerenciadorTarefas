@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GerenciadordeTarefas/1.0.0": {
+        "runtime": {
+          "GerenciadordeTarefas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GerenciadordeTarefas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
